@@ -4,7 +4,7 @@
 
 ### Lesson Objectives
 
-### Casey's changes
+### Casey's new changes
 _After this lesson, students will be able to:_
 
 - Explain how git's version control allows developers to work differently on projects
